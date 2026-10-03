@@ -49,13 +49,6 @@ npm run lint
 npm run build
 ```
 
-## Before submission
-
-- Replace the developer name and student ID placeholders, including the About page.
-- Add the required screenshots (including API loading/error states and mobile directory) to a `screenshots/` folder.
-- Create a public repository named `StudentID_StudentManagementSystem` (or add the instructor as a collaborator to a private repository).
-- Make regular commits with meaningful messages and follow the course submission instructions.
-
 ## Known bugs
 
 - No known application bugs. Verify both the API-running and API-stopped states before submission.
