@@ -11,7 +11,7 @@ const Navbar = () => (
     <nav className="navbar navbar-expand-lg navbar-dark app-navbar">
         <div className="container">
             <NavLink className="navbar-brand d-flex align-items-center gap-2" to="/">
-                <span>BrightPath College</span>
+                <img className="college-logo" src="/bpc-logo.svg" alt="BrightPath College" />
             </NavLink>
             <button
                 className="navbar-toggler d-flex align-items-center gap-2"
